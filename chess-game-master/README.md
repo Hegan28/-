@@ -1,3 +1,3 @@
 # chess game
 This is simple chess game.
-made by. hegan
+made by. Hegan28
